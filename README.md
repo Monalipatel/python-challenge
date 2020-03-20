@@ -1,6 +1,8 @@
 # python-challenge
+
 PyBank
-revenue-per-lead.png
+
+
 ![](Images/revenue-per-lead.png)
 
 Create a Python script that analyzes the records to calculate each of the following:
@@ -17,7 +19,7 @@ The greatest decrease in losses (date and amount) over the entire period
 
 
 PyPoll
-revenue-per-lead.png
+
 
 ![](Images/Vote_counting.png)
 
