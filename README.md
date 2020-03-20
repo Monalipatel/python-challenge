@@ -1,7 +1,7 @@
 # python-challenge
 PyBank
 revenue-per-lead.png
-![](images/revenue-per-lead.png)
+![](Images/revenue-per-lead.png)
 
 Create a Python script that analyzes the records to calculate each of the following:
 
